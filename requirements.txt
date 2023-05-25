@@ -1,3 +1,4 @@
-streamlit
-nltk
-sklearn
+numpy==1.23.4
+streamlit==1.22.0
+nltk==3.7
+scikit-learn==1.1.2
