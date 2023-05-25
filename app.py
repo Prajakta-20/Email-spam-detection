@@ -3,6 +3,8 @@ import pickle
 import string
 from nltk.corpus import stopwords
 import nltk
+nltk.download()
+
 import sklearn
 from nltk.stem.porter import PorterStemmer
 
